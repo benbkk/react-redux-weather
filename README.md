@@ -1,2 +1,2 @@
-# React Redux Weather
-Exercise based on Stephen Grider's react with redux class.
+# Redux Weather
+Exercise project based on Stephen Grider's react with redux class.
